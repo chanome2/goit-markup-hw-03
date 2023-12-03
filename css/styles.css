@@ -213,3 +213,9 @@ body {
 }
 
 /* end of portfolio classes */
+
+/* start of homework 3 positioning */
+
+img {
+  display: block;
+}
