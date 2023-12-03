@@ -1,0 +1,213 @@
+:root {
+  --main-bg-color: #ffffff;
+  --text-color: #404bbf;
+}
+
+/* start of header classes */
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+
+.link-logo {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.studio-logo {
+  color: #2e2f42;
+}
+
+.list {
+  list-style: none;
+}
+
+.link-style {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.link-style:hover {
+  color: #404bbf;
+}
+
+.link-style:focus {
+  color: #404bbf;
+}
+
+.address-list {
+  font-style: normal;
+}
+
+.contact-color {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.contact-color:hover {
+  color: #404bbf;
+}
+
+.contact-color:focus {
+  color: #404bbf;
+}
+
+/*  end of header classes  */
+
+/* start of section 1 classes */
+
+.section-title {
+  background-color: #2e2f42;
+}
+
+.header-title {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
+.btn {
+  background-color: #4d5ae5;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
+
+.btn:hover {
+  background-color: #404bbf;
+}
+
+.btn:focus {
+  background-color: #404bbf;
+}
+
+.btn {
+  cursor: pointer;
+}
+/* end of section 1 classes */
+
+/* start of section 2 classes */
+
+.section-two-header {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.section-two-paragraph {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/* end of section 2 classes */
+
+/* start of section 3 classes */
+
+.section-three-header {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+/* end of section 3 classes */
+
+/* start of section 4 classes */
+
+.section-four {
+  background-color: #f4f4fd;
+}
+
+.section-four-header {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.section-four-list {
+  background-color: #ffffff;
+}
+/* end of section 4 classes */
+
+/* start of footer */
+
+.page-footer {
+  background-color: #2e2f42;
+}
+
+.studio-footer-logo {
+  color: #f4f4fd;
+}
+
+.footer-paragraph {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
+
+/* end of footer classes */
+
+/* start of portfolio classes */
+
+.portfolio-btn {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+  background-color: #f4f4fd;
+}
+
+.portfolio-btn:hover {
+  color: #ffffff;
+  background-color: #404bbf;
+}
+
+.portfolio-btn:focus {
+  color: #ffffff;
+  background-color: #404bbf;
+}
+
+.portfolio-btn {
+  cursor: pointer;
+}
+
+.section-two-header {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.portfolio-paragraph {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
