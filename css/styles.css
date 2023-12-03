@@ -240,3 +240,11 @@ img {
   display: flex;
   align-items: center;
 }
+
+.link-logo {
+  margin-right: 76px;
+}
+
+.list {
+  display: flex;
+}
