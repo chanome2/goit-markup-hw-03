@@ -219,3 +219,9 @@ body {
 img {
   display: block;
 }
+
+/* start of header positioning */
+
+.index-header {
+  border-bottom: 1px solid #e7e9fc;
+}
