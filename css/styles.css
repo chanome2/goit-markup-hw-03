@@ -336,3 +336,11 @@ img {
 .section-four-header {
   margin-bottom: 72px;
 }
+
+.list-four {
+  gap: 24px;
+}
+
+.section-four-list {
+  border-radius: 0px 0px 4px 4px;
+}
