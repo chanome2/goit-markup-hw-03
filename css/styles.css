@@ -300,6 +300,6 @@ img {
   gap: 24px;
 }
 
-.list-card-one {
+.list-card {
   flex-basis: calc((100% - 72px) / 4);
 }
