@@ -324,3 +324,15 @@ img {
   display: flex;
   gap: 24px;
 }
+
+/* end of section 3 positioning */
+
+/* start of section 4 positioning */
+
+.section-four {
+  padding: 120px 0 120px;
+}
+
+.section-four-header {
+  margin-bottom: 72px;
+}
