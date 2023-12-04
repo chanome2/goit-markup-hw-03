@@ -315,3 +315,12 @@ img {
 .section-three-title {
   padding-bottom: 120px;
 }
+
+.section-three-header {
+  margin-bottom: 72px;
+}
+
+.list-hw3 {
+  display: flex;
+  gap: 24px;
+}
