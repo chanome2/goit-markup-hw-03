@@ -256,7 +256,7 @@ img {
 }
 /* end of header positioning */
 
-/* start of section positioning */
+/* start of section 1 positioning */
 
 .section-title {
   padding: 188px 0 188px;
@@ -272,4 +272,12 @@ img {
   height: 56px;
   border: none;
   border-radius: 4px;
+}
+
+/* end of section 1 positioning */
+
+/* start of section 2 positioning */
+
+.section-two-title {
+  padding: 120px 0 120px;
 }
