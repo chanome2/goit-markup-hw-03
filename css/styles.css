@@ -307,3 +307,11 @@ img {
 .section-two-header {
   margin-bottom: 8px;
 }
+
+/* end for section 2 positioning */
+
+/* start of section 3 positioning */
+
+.section-three-title {
+  padding-bottom: 120px;
+}
