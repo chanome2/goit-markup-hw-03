@@ -373,3 +373,15 @@ img {
 .footer-paragraph {
   max-width: 264px;
 }
+
+/* end of footer positioning */
+
+/* start of porfolio header positioning */
+
+.portfolio-header {
+  border-bottom: 1px solid #e7e9fc;
+}
+
+.header-container {
+  display: flex;
+}
