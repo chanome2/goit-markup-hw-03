@@ -254,3 +254,10 @@ img {
   padding: 24px 0 24px;
   gap: 40px;
 }
+/* end of header positioning */
+
+/* start of section positioning */
+
+.section-title {
+  padding: 188px 0 188px;
+}
