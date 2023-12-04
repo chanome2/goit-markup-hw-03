@@ -247,4 +247,10 @@ img {
 
 .list {
   display: flex;
+  gap: 40px;
+}
+
+.link-style {
+  padding: 24px 0 24px;
+  gap: 40px;
 }
