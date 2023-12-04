@@ -303,3 +303,7 @@ img {
 .list-card {
   flex-basis: calc((100% - 72px) / 4);
 }
+
+.section-two-header {
+  margin-bottom: 8px;
+}
