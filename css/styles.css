@@ -261,3 +261,15 @@ img {
 .section-title {
   padding: 188px 0 188px;
 }
+
+.header-title {
+  width: 496px;
+}
+
+.btn {
+  display: block;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  border-radius: 4px;
+}
