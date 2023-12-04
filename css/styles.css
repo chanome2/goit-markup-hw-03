@@ -356,3 +356,20 @@ img {
 .section-four-paragraph {
   text-align: center;
 }
+
+/* end of section 4 positioning */
+
+/* start of footer positioning */
+
+.page-footer {
+  padding: 100px 0 100px;
+}
+
+.footer-link {
+  display: inline-block;
+  margin-bottom: 16px;
+}
+
+.footer-paragraph {
+  max-width: 264px;
+}
