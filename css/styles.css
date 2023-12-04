@@ -263,7 +263,7 @@ img {
 }
 
 .header-title {
-  width: 496px;
+  max-width: 496px;
 }
 
 .btn {
