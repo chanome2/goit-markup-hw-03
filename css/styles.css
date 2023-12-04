@@ -299,3 +299,7 @@ img {
 .list {
   gap: 24px;
 }
+
+.list-card {
+  flex-basis: calc((100% - 3 * 24px) / 4);
+}
