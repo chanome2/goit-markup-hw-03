@@ -300,8 +300,8 @@ img {
   gap: 24px;
 }
 
-.list-card {
-  width: calc((100% - 72px) / 4);
+.info-card {
+  flex-basis: calc((100% - 72px) / 4);
 }
 
 .section-two-header {
