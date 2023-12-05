@@ -393,3 +393,9 @@ img {
 .portfolio-section {
   padding: 96px 0 120px 0;
 }
+
+.portfolio-list {
+  justify-content: center;
+  gap: 24px;
+  margin-bottom: 72px;
+}
