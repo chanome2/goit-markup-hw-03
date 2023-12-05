@@ -302,6 +302,7 @@ img {
 
 .card-info {
   width: calc((100% - 72px) / 4);
+  margin-right: 24px;
 }
 
 .card-info :last-child {
