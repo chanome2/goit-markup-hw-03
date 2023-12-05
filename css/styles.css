@@ -301,7 +301,15 @@ img {
 }
 
 .card-info {
-  flex-basis: calc((100% - 72px) / 4);
+  width: calc((100% - 72px) / 4);
+}
+
+.card-info :last-child {
+  margin: 0;
+}
+
+.card-info {
+  margin-bottom: 8px;
 }
 
 .section-two-header {
