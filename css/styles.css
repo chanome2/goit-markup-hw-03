@@ -305,9 +305,9 @@ img {
   margin-right: 0;
 }
 
-/* .card-info {
+.card-info {
   width: calc((100% - 72px) / 4);
-} */
+}
 
 /* .card-info :last-child {
   margin: 0;
