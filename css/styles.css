@@ -300,8 +300,8 @@ img {
   gap: 24px;
 }
 
-.christian {
-  flex-basis: calc((100% - 72px) / 4);
+.card-info {
+  flex-basis: calc(100% - 72px) / 4;
 }
 
 .section-two-header {
