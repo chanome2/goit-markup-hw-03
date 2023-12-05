@@ -298,15 +298,16 @@ img {
 
 .section-two-list li {
   margin-right: 24px;
+  width: calc((100% - 72px) / 4);
 }
 
 .section-two-list li:last-child {
   margin-right: 0;
 }
 
-.card-info {
+/* .card-info {
   width: calc((100% - 72px) / 4);
-}
+} */
 
 /* .card-info :last-child {
   margin: 0;
