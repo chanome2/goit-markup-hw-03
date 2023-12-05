@@ -385,3 +385,11 @@ img {
 .header-container {
   display: flex;
 }
+
+/* end of portfolio herader positioning */
+
+/* start of portfolio main page  positioning*/
+
+.portfolio-section {
+  padding: 96px 0 120px 0;
+}
