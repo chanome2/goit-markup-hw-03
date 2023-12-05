@@ -399,3 +399,17 @@ img {
   gap: 24px;
   margin-bottom: 72px;
 }
+
+.portfolio-btn {
+  padding: 12px 24px 12px;
+  border: 1px solid #e7e9fc;
+  border-radius: 4px;
+}
+
+.portfolio-btn:hover {
+  border: 1px solid transparent;
+}
+
+.portfolio-btn:focus {
+  border: 1px solid transparent;
+}
