@@ -296,17 +296,21 @@ img {
   overflow: hidden;
 }
 
-.section-two-list li {
-  margin-right: 24px;
-  width: calc((100% - 72px) / 4);
-}
+/* .section-two-list li {
+  gap: 24px;
+} */
 
-.section-two-list li:last-child {
+/* .section-two-list li:last-child {
   margin-right: 0;
-}
+} */
 
 .card-info {
   flex-basis: calc((100% - 72px) / 4);
+  margin-right: 24px;
+}
+
+.card-info:last-child {
+  margin-right: 0;
 }
 
 /* .card-info :last-child {
