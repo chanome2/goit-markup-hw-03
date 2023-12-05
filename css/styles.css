@@ -303,6 +303,8 @@ img {
 .section-two-list {
   gap: 24px;
   display: flex;
+  margin: 0;
+  padding: 0;
 }
 
 /* {.section-two-list .card-info:first-child {
@@ -314,8 +316,7 @@ img {
 } */
 
 .card-info {
-  width: calc((100% - 72px) / 4);
-  margin-right: 24px;
+  flex: 0 0 calc((100% - 3 * 24px) / 4);
 }
 
 /* .card-info:last-child {
